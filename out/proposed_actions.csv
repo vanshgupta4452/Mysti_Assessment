@@ -1,0 +1,30 @@
+action_id,case_id,request_ids,to,mode,reason,draft_subject,draft_body
+C009:R009+R025,C009,R009 R025,case-009@example.invalid,"DRY RUN - draft only, not sent","R009 fault_photo: pending, last asked 117.0h ago, follow-up allowed | R025 site_access: pending, last asked 117.0h ago, follow-up allowed",Daybreak Repairs C009: still needed for your repair,"Hello,
+
+To move repair case C009 forward we still need:
+- a clear photo of the fault
+- site access instructions
+
+If you have already sent this, reply ""sent"" and we will stop asking.
+Reply ""stop"" if you do not want further reminders.
+
+Daybreak Repairs"
+C017:R027,C017,R027,case-017@example.invalid,"DRY RUN - draft only, not sent","R027 quote_approval: pending, last asked 118.0h ago, follow-up allowed",Daybreak Repairs C017: still needed for your repair,"Hello,
+
+To move repair case C017 forward we still need:
+- your decision on the repair quote (no rush if you need more time)
+
+If you have already sent this, reply ""sent"" and we will stop asking.
+Reply ""stop"" if you do not want further reminders.
+
+Daybreak Repairs"
+C024:R024+R026,C024,R024 R026,case-024@example.invalid,"DRY RUN - draft only, not sent","R024 fault_photo: pending, last asked 69.0h ago, follow-up allowed | R026 serial_number: pending, last asked 69.0h ago, follow-up allowed",Daybreak Repairs C024: still needed for your repair,"Hello,
+
+To move repair case C024 forward we still need:
+- a clear photo of the fault
+- the model/serial number (a photo of the label is fine)
+
+If you have already sent this, reply ""sent"" and we will stop asking.
+Reply ""stop"" if you do not want further reminders.
+
+Daybreak Repairs"

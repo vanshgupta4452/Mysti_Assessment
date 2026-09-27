@@ -1,0 +1,31 @@
+request_id,case_id,item,case_status,request_status,outcome,reason
+R001,C001,fault_photo,completed,pending,excluded,case is completed
+R002,C002,fault_photo,completed,received,excluded,case is completed
+R003,C003,fault_photo,completed,received,excluded,case is completed
+R004,C004,fault_photo,completed,received,excluded,case is completed
+R005,C005,fault_photo,cancelled,pending,excluded,case is cancelled
+R006,C006,fault_photo,completed,received,excluded,case is completed
+R007,C007,fault_photo,completed,received,excluded,case is completed
+R008,C008,fault_photo,scheduled,received,excluded,case is scheduled
+R009,C009,fault_photo,waiting_info,received,excluded,already received
+R010,C010,fault_photo,completed,received,excluded,case is completed
+R011,C011,fault_photo,scheduled,received,excluded,case is scheduled
+R012,C012,fault_photo,waiting_info,pending,excluded,customer opted out (followup_allowed=0)
+R013,C013,fault_photo,cancelled,pending,excluded,case is cancelled
+R014,C014,fault_photo,completed,received,excluded,case is completed
+R015,C015,fault_photo,scheduled,received,excluded,case is scheduled
+R016,C016,fault_photo,waiting_info,received,excluded,already received
+R017,C017,fault_photo,quote_sent,received,excluded,already received
+R018,C018,fault_photo,waiting_info,received,excluded,already received
+R019,C019,fault_photo,cancelled,pending,excluded,case is cancelled
+R020,C020,fault_photo,scheduled,received,excluded,case is scheduled
+R021,C021,fault_photo,quote_sent,received,excluded,already received
+R022,C022,fault_photo,waiting_info,received,excluded,already received
+R023,C023,fault_photo,quote_sent,received,excluded,already received
+R024,C024,fault_photo,waiting_info,received,excluded,already received
+R025,C009,site_access,waiting_info,received,excluded,already received
+R026,C024,serial_number,waiting_info,received,excluded,already received
+R027,C017,quote_approval,quote_sent,received,excluded,already received
+R028,C021,quote_approval,quote_sent,pending,excluded,customer opted out (followup_allowed=0)
+R029,C023,quote_approval,quote_sent,received,excluded,already received
+R030,C016,site_access,waiting_info,received,excluded,already received
